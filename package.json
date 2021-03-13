@@ -1,0 +1,22 @@
+{
+  "name": "abacus",
+  "version": "1.0.0",
+  "description": "Use me to calculate and crunch numbers.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "calculator",
+    "abacus"
+  ],
+  "author": "Nikola Đuza",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.3",
+    "typescript": "^3.9.9"
+  }
+}
